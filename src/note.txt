@@ -1,0 +1,22 @@
+Material Table:
+
+=> Alignment of column
+=> Lookup
+=> Render custom message of empty value
+=> Column type
+=> Sorting
+=> Search
+=> Filtering
+=> Pagination
+=> Export (downloading the data)
+=> CRUD Operation (add new row)
+=> Update existing row
+=> Delete a row
+=> Add custom action button
+=> Import Material icons
+=> Selection
+=> Grouping
+=> Hide & show columns
+=> custom cell render
+=> Styling
+=> Adding custom icons
